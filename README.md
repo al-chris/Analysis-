@@ -96,4 +96,3 @@ Total Agree = *Agree + Strongly Agree*
 
 ## 8  Resources
 * `coping_strategy_clusters.png` – visualization
-* 
